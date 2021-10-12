@@ -7,7 +7,7 @@
 
 - This is the email template example created by using *HTML* ```<table></table>``` structure with inline *CSS* styles.
 - Also this example of layout use a *Elastic layout* design, which allow comfortly usability even on mobile device.
-- See another [version of example](https://github.com/Alexandr-Stark/EmailTemplate.git) created by using HTML blocks structure and SASS. 
+- See another [version of example](https://github.com/Alexandr-Stark/EmailTemplate.git) created by using *HTML* blocks structure and *SASS*. 
 
 
 ## 🏃‍♂️ Simple start
